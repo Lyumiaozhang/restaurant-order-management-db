@@ -18,3 +18,8 @@ This project implements a restaurant order management system using a relational 
   
 ## Design Notes
 The ORDER_ITEM table is used to handle the many-to-many relationship between orders and menu items.
+
+## How to Run
+1. Run schema.sql
+2. Run sample_data.sql
+3. Use reset.sql to reset the database
