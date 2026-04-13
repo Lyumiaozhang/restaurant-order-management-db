@@ -9,12 +9,12 @@ This project implements a restaurant order management system using a relational 
 - sample_data.sql
 - reset.sql
    
-## Tables
-- CUSTOMER
-- RESTAURANT
-- MENU_ITEM
-- ORDERS
-- ORDER_ITEM
+## Tables Description
+- CUSTOMER: stores customer information
+- RESTAURANT: stores restaurant details
+- MENU_ITEM: stores menu items
+- ORDERS: stores order data
+- ORDER_ITEM: stores items in each order
   
 ## Design Notes
 The ORDER_ITEM table is used to handle the many-to-many relationship between orders and menu items.
