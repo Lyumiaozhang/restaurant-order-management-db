@@ -15,3 +15,6 @@ This project implements a restaurant order management system using a relational 
 - MENU_ITEM
 - ORDERS
 - ORDER_ITEM
+  
+## Design Notes
+The ORDER_ITEM table is used to handle the many-to-many relationship between orders and menu items.
