@@ -1,8 +1,8 @@
 # restaurant-order-management-db
 26WN-CS630-154W - Database Systems final project 
 
-## Description
-This project is a database-backed application built with Oracle SQL.
+## Overview
+This project implements a restaurant order management system using a relational database design.
 
 ## Files:
 - schema.sql
